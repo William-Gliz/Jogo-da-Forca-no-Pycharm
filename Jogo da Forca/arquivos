@@ -1,0 +1,8 @@
+Programa Principal: Dá as boas vindas ao jogador, pede a seleção da dificuldade e chama o jogo.
+
+Jogo: Codigo responsável pela execução do jogo
+
+Dados: lista de palavras que o jogo possui e desenhos representando a forca
+
+LeiaInt: Função que substitui a função int(). Quando o usuário digitar um caracter não numérico, a função LeiaInt pede a entrada de um número novamente, sem
+levantar um Erro.
